@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prashik712
-- 👀 I’m interested in blockchain technology.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Crypto.
+- 🌱 I’m currently learning Blockchain Technology.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - prashikmeshram71@gmail.com
 
 <!---
 Prashik712/Prashik712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

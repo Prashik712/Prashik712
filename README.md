@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashik712
-- 👀 I’m interested in Web 3 technology/ Crypto.
-- 🌱 I’m currently learning Blockchain Technology/ Web 3 technology.
+- 👀 I’m interested in Java Microservices, Backend Engineering.
+- 🌱 I’m currently learning DSA, HLD, LLD,.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - prashikmeshram712@gmail.com
 
